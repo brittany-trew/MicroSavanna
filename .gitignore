@@ -1,0 +1,16 @@
+# Rstudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+.DS_Store
+*.log
+*.tmp
+
+# Intermediate outputs
+tmp/
+temp/
+cache/
+data/
